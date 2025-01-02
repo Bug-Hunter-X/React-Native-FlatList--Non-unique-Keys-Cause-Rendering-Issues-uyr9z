@@ -1,0 +1,1 @@
+This error occurs when using the FlatList component in React Native and trying to render items with dynamic keys that are not unique.  The keys should uniquely identify each item.  Duplicate keys cause unpredictable behavior, including incorrect rendering, performance issues and crashes.
